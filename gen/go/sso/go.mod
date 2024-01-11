@@ -1,0 +1,1 @@
+module github.com/Guvanchhojamov/protos/gen/go/sso
